@@ -25,7 +25,7 @@ consists in copying and distributing replicas of the same data to other nodes wi
 Information about memory availability is periodically broadcasted, by each node, to all direct neighbors.
 Data retrieval is performed by an external agent that periodically connects to the DAG root and gathers all the data from the WSN.
 
-This work has been published in [1,2.
+This work has been published in [1,2].
 
 ## CALIPSO Publications
 
